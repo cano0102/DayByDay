@@ -4,5 +4,7 @@ console.log("ejercicios de programacion")
 console.log("ejercicios de programacion y configure mi github")
 console.log("hice ejercicios de pyton ")
 console.log("hice un examen en el sena de pyton , ejercicio de javascript")
+console.log("Agregue la segunda funcionalidad del proyecto : GESTOR DE PACIENTES ")
+
 
 
