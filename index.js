@@ -8,5 +8,7 @@ console.log("Agregue la segunda funcionalidad del proyecto : GESTOR DE PACIENTES
 console.log("hice algunas cosas del protecto: GESTOR DE PACIENTES")
 console.log("aprendiendo un poco de git")
 console.log("hice codechef")
+console.log("hice codechef de lo que va del dia")
+
 
 
