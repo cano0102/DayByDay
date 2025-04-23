@@ -12,6 +12,8 @@ console.log("hice codechef de lo que va del dia")
 console.log("gestos de pacientes")
 console.log("parte de un ejercicio y ejercicio para recordar javascript")
 console.log("ejercicio javascript")
+console.log("evaluacion de python sobre el manejo de archivos")
+
 
 
 
