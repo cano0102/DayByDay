@@ -13,6 +13,8 @@ console.log("gestos de pacientes")
 console.log("parte de un ejercicio y ejercicio para recordar javascript")
 console.log("ejercicio javascript")
 console.log("evaluacion de python sobre el manejo de archivos")
+console.log("estudiar un poco git")
+
 
 
 
