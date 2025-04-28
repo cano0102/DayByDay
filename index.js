@@ -16,7 +16,7 @@ console.log("evaluacion de python sobre el manejo de archivos")
 console.log("estudiar un poco git")
 console.log("javascript")
 console.log("git")
-
+console.log("ejercicios de javascript")
 
 
 
