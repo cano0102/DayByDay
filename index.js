@@ -21,7 +21,7 @@ console.log("ejercicios de javascript")
 console.log("ejercicios de javascript")
 console.log("estudiar un poco git")
 console.log("estudiar un poco git")
-
+console.log("ejercicios de javascript")
 
 
 
