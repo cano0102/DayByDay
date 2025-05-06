@@ -23,6 +23,7 @@ console.log("estudiar un poco git")
 console.log("estudiar un poco git")
 console.log("ejercicios de javascript")
 console.log("sigo con el repaso de javascript hoy funciones y condicionales")
+console.log("ejercicios de POO de pyton")
 
 
 
