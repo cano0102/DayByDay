@@ -26,6 +26,8 @@ console.log("sigo con el repaso de javascript hoy funciones y condicionales")
 console.log("ejercicios de POO de pyton")
 console.log("ejercicios de POO de pyton")
 console.log("HE ECHO BASTANTES EJERCICIOS DE JS")
+console.log("EJERCICIOS DE LA CLASE DE JS")
+
 
 
 
