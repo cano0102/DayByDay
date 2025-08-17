@@ -30,6 +30,7 @@ console.log("EJERCICIOS DE LA CLASE DE JS")
 console.log("EJERCICIOS DE LA CLASE DE JS")
 console.log("EJERCICIOS DE LA CLASE DE JS")
 console.log("proyectos")
+console.log("proyectos")
 
 
 
